@@ -23,7 +23,7 @@ and contact information.
 
 ##  Live Demo
 
-https://crm-dashboard-beta-jade.vercel.app/
+https://portfolio-nu-liart-eh08hq38fm.vercel.app/
 
 ##  Project Structure
 
