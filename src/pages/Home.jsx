@@ -41,7 +41,7 @@ function Home() {
             </section>
 
             <section className="flex gap-5 mt-10">
-                <a href="/public/Sonu_Kumar_Singh_Resume.pdf" target="_blank" className="px-6 py-3 rounded-1g bg-zinc-800 border border-zinc-700 hover:bg-zinc-700 text-white transition">Download Resume</a>
+                <a href="/Sonu_Kumar_Singh_Resume.pdf" target="_blank" className="px-6 py-3 rounded-1g bg-zinc-800 border border-zinc-700 hover:bg-zinc-700 text-white transition">Download Resume</a>
             </section>
         </main>
     )
