@@ -13,7 +13,7 @@ function Home() {
                 </h1>
 
                 <h2 className="text-3x1 text-zinc-300 mt-3">
-                        Frontend Software Engineer
+                        Full Stack Developer 
                 </h2>
 
                 <div className="flex flex-wrap gap-3 mt-6 text-white">
@@ -22,7 +22,11 @@ function Home() {
                     </span>
 
                     <span className="px-3 py-1 rounded-full bg-zinc-800 border border-zinc-700 text-sm">
-                        JavaScript
+                        Node.js 
+                    </span>
+
+                    <span className="px-3 py-1 rounded-full bg-zinc-800 border border-zinc-700 text-sm">
+                        Express.js  
                     </span>
 
                     <span className="px-3 py-1 rounded-full bg-zinc-800 border border-zinc-700 text-sm">
@@ -30,13 +34,17 @@ function Home() {
                     </span>
 
                     <span className="px-3 py-1 rounded-full bg-zinc-800 border border-zinc-700 text-sm">
+                        PostgreSQL 
+                    </span>
+
+                    <span className="px-3 py-1 rounded-full bg-zinc-800 border border-zinc-700 text-sm">
                         Supabase
                     </span>
                 </div>
                 <p className="mt-6 leading-8 text-zinc-300">
-                        Building scalable, responsive web application
-                        with authentication, REST APIs and clean user
-                        experiences. 
+                    Building production-ready full stack applications with React, Node.js,
+                    Express, PostgreSQL and Supabase. Experienced with authentication,
+                    multi-tenant architecture, REST APIs and secure CRUD workflows. 
                 </p>
             </section>
 

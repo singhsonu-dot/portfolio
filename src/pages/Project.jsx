@@ -9,10 +9,11 @@ function Project() {
                 <h2 className="text-2x1 text-white font-semibold">CRM Dashboard</h2>
 
                 <p className="text-zinc-400 mt-2">
-                    React-based crm dashboard with
-                    authentication, protected routes, 
-                    REST API integration and 
-                    responsive UI. 
+                    Production-ready Full Stack CRM 
+                    Dashboard featuring Supabase 
+                    Authentication, PostgreSQL database,
+                    Row Level Security(RLS), multi-tenant 
+                    architecture and secure CRUD operations. 
                 </p>
 
                 <div className="flex gap-4 mt-6">

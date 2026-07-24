@@ -8,10 +8,11 @@ function Skills() {
 
                     <ul className="pl-5 list-disc space-y-1">
                         <li>React</li>
-                        <li>JavaScript</li>
+                        <li>JavaScript(ES6+)</li>
                         <li>HTML5</li>
                         <li>Tailwind CSS</li>
                         <li>TanStack Query</li>
+                        <li>React-Router V6</li> 
                     </ul>
                 </article>
 
@@ -19,10 +20,28 @@ function Skills() {
                     <h3>Backend</h3>
 
                     <ul className="pl-5 list-disc space-y-1">
-                        <li>Supabase</li>
+                        <li>Node.js</li>
+                        <li>Express.js</li>
+                    </ul>
+                </article>
+
+                <article className="rounded-x1 border border-zinc-800 bg-zinc-950 p-6 hover:border-zinc-600 transition">
+                    <h3>Database</h3>
+
+                    <ul className="pl-5 list-disc space-y-1">
                         <li>PostgreSQL</li>
-                        <li>REST APIs</li>
-                        <li>OAuth</li>
+                        <li>Supabase</li>
+                        <li>Row Level Security (RLS)</li>
+                    </ul>
+                </article>
+
+                <article className="rounded-x1 border border-zinc-800 bg-zinc-950 p-6 hover:border-zinc-600 transition">
+                    <h3>Auhtentication</h3>
+
+                    <ul className="pl-5 list-disc space-y-1">
+                        <li>Supabase Auth</li>
+                        <li>Google OAuth</li>
+                        <li>Github OAuth</li> 
                     </ul>
                 </article>
 
